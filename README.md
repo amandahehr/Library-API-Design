@@ -32,3 +32,7 @@ LIBRARY:
 
 /library/books/{book id} - get library single book page
 
+
+
+NODE:
+hapi, inert, vision, ejs, monk, joi, dotenv
