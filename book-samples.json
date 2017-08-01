@@ -1,0 +1,718 @@
+{
+  "title":"The History of Love",
+  "author":"Nicole Krauss",
+  "genre":"fiction",
+  "imgurl":"images/thol.jpg",
+  "publication":{
+    "date":"05/02/2005",
+    "publisher":"W. W. Norton & Company",
+    "edition":"paperback"
+  },
+  "copies":[
+    {
+      "id":"1",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    },
+    {
+      "id":"2",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    },
+    {
+      "id":"3",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    }
+  ]
+}
+
+
+{
+  "title":"The Neverending Story",
+  "author":"Michael Ende",
+  "genre":"fantasy",
+  "imgurl":"images/tnes.jpg",
+  "publication":{
+    "date":"1979",
+    "publisher":"Thienemann Verlag",
+    "edition":"hardcover"
+  },
+  "copies":[
+    {
+      "id":"1",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    },
+    {
+      "id":"2",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    },
+    {
+      "id":"3",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    }
+  ]
+}
+
+
+{
+  "title":"The Catcher in the Rye",
+  "author":"J.D Salinger",
+  "genre":"fiction",
+  "imgurl":"images/tcitr.jpg",
+  "publication":{
+    "date":"07/16/1951",
+    "publisher":"Little, Brown and Company",
+    "edition":"paperback"
+  },
+  "copies":[
+    {
+      "id":"1",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    },
+    {
+      "id":"2",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    },
+    {
+      "id":"3",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    }
+  ]
+}
+
+
+{
+  "title":"The Great Gatsby",
+  "author":"F. Scott Fitzgerald",
+  "genre":"fiction",
+  "imgurl":"images/tgg.jpg",
+  "publication":{
+    "date":"04/10/1925",
+    "publisher":"Charles Scribner's Sons",
+    "edition":"paperback"
+  },
+  "copies":[
+    {
+      "id":"1",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    },
+    {
+      "id":"2",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    },
+    {
+      "id":"3",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    }
+  ]
+}
+
+
+{
+  "title":"Robopocalypse",
+  "author":"Daniel H. Wilson",
+  "genre":"science fiction",
+  "imgurl":"images/robo.jpg",
+  "publication":{
+    "date":"06/07/2011",
+    "publisher":"Doubleday",
+    "edition":"paperback"
+  },
+  "copies":[
+    {
+      "id":"1",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    },
+    {
+      "id":"2",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    },
+    {
+      "id":"3",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    }
+  ]
+}
+
+
+{
+  "title":"It",
+  "author":"Stephen King",
+  "genre":"horror",
+  "imgurl":"images/it.jpg",
+  "publication":{
+    "date":"09/1986",
+    "publisher":"Viking",
+    "edition":"hardcover"
+  },
+  "copies":[
+    {
+      "id":"1",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    },
+    {
+      "id":"2",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    },
+    {
+      "id":"3",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    }
+  ]
+}
+
+
+{
+  "title":"The Twice Born",
+  "author":"Pauline Gedge",
+  "genre":"historical fiction",
+  "imgurl":"images/ttb.jpg",
+  "publication":{
+    "date":"2007",
+    "publisher":"Penguin",
+    "edition":"paperback"
+  },
+  "copies":[
+    {
+      "id":"1",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    },
+    {
+      "id":"2",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    },
+    {
+      "id":"3",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    }
+  ]
+}
+
+
+{
+  "title":"The Lies of Locke Lamora",
+  "author":"Scott Lynch",
+  "genre":"fantasy",
+  "imgurl":"images/tloll.jpg",
+  "publication":{
+    "date":"06/27/2006",
+    "publisher":"Bantam Spectra",
+    "edition":"paperback"
+  },
+  "copies":[
+    {
+      "id":"1",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    },
+    {
+      "id":"2",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    },
+    {
+      "id":"3",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    }
+  ]
+}
+
+
+{
+  "title":"A Tear at the Edge of Creation",
+  "author":"Marcelo Gleiser",
+  "genre":"nonfiction",
+  "imgurl":"images/atateoc.jpg",
+  "publication":{
+    "date":"04/06/2010",
+    "publisher":"Free Press",
+    "edition":"hardcover"
+  },
+  "copies":[
+    {
+      "id":"1",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    },
+    {
+      "id":"2",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    },
+    {
+      "id":"3",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    }
+  ]
+}
+
+
+{
+  "title":"Blink",
+  "author":"Malcom Gladwell",
+  "genre":"nonfiction",
+  "imgurl":"images/blink.jpg",
+  "publication":{
+    "date":"04/03/2007",
+    "publisher":"Back Bay Books",
+    "edition":"hardcover"
+  },
+  "copies":[
+    {
+      "id":"1",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    },
+    {
+      "id":"2",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    },
+    {
+      "id":"3",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    }
+  ]
+}
+
+
+{
+  "title":"The God Delusion",
+  "author":"Richard Dawkings",
+  "genre":"nonfiction",
+  "imgurl":"images/tgd.jpg",
+  "publication":{
+    "date":"10/18/2006",
+    "publisher":"Houghton Mifflin Co.",
+    "edition":"paperback"
+  },
+  "copies":[
+    {
+      "id":"1",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    },
+    {
+      "id":"2",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    },
+    {
+      "id":"3",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    }
+  ]
+}
+
+
+{
+  "title":"Lamb",
+  "author":"Christopher Moore",
+  "genre":"humor",
+  "imgurl":"images/lamb.jpg",
+  "publication":{
+    "date":"05/25/2004",
+    "publisher":"HarperCollins",
+    "edition":"paperback"
+  },
+  "copies":[
+    {
+      "id":"1",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    },
+    {
+      "id":"2",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    },
+    {
+      "id":"3",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    }
+  ]
+}
+
+
+{
+  "title":"The Elegant Universe",
+  "author":"Brian Greene",
+  "genre":"nonfiction",
+  "imgurl":"images/teu.jpg",
+  "publication":{
+    "date":"10/11/2010",
+    "publisher":"W. W. Norton & Company",
+    "edition":"paperback"
+  },
+  "copies":[
+    {
+      "id":"1",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    },
+    {
+      "id":"2",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    },
+    {
+      "id":"3",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    }
+  ]
+}
+
+
+{
+  "title":"The Drunkard's Walk",
+  "author":"Leonard Mlodinow",
+  "genre":"nonfiction",
+  "imgurl":"images/tdw.jpg",
+  "publication":{
+    "date":"05/13/2008",
+    "publisher":"Pantheon",
+    "edition":"paperback"
+  },
+  "copies":[
+    {
+      "id":"1",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    },
+    {
+      "id":"2",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    },
+    {
+      "id":"3",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    }
+  ]
+}
+
+
+{
+  "title":"Intensity",
+  "author":"Dean Koontz",
+  "genre":"horror",
+  "imgurl":"images/int.jpg",
+  "publication":{
+    "date":"06/22/1999",
+    "publisher":"Random House Large Print",
+    "edition":"paperback"
+  },
+  "copies":[
+    {
+      "id":"1",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    },
+    {
+      "id":"2",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    },
+    {
+      "id":"3",
+      "checked":{
+        "available":"true",
+        "user":null
+      },
+      "reserved":{
+        "reserved":"false",
+        "user":null
+      }
+    }
+  ]
+}

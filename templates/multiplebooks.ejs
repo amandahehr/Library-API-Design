@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="fluid_grid.css">
+  <link rel="stylesheet" href="styles.css">
+  <title>Lending Library</title>
+</head>
+<body>
+  <header class="pictureBox">
+
+    <h1 class="the-library"><a href="../">the library</a></h1>
+
+  </header>
+
+
+
+  <div class="menu container_12">
+    <a href="/library/books"><li class="grid_12" id="search-books">View Books</li></a>
+  </div>
+
+
+  <main>
+    <div class="container_12">
+
+      <script type="text/javascript">
+        function authSearch() {
+          let searchType = document.getElementById('search-by').value
+          let searchQuery = document.getElementById('search').value
+
+          let queryurl = "/library/books?" + searchType + "=" + searchQuery
+          window.location.href = queryurl
+        }
+      </script>
+
+      <h3>Search books by:</h3>
+      <select id="search-by">
+        <option value="0">Search By---</option>
+        <option value="title">Title</option>
+        <option value="author">Author</option>
+        <option value="genre">Genre</option>
+      </select>    
+      <input id="search">
+      <button type="button" onclick="authSearch()">Search</button>
+
+      <div id="resultList" class="cf">
+      <% for(i=0; i<mybooks.length; i++){ 
+          let url = "/library/books/" + mybooks[i]._id
+          let image = mybooks[i].imgurl
+        %>
+        <a href=<%= url %>>
+          <ul class="grid_3">
+            <li><img src=<%= image %>></li>
+            <li>Title: <%= mybooks[i].title %></li>
+            <li>Author: <%= mybooks[i].author %></li>
+            <li>Genre: <%= mybooks[i].genre %></li>
+          </ul>
+        </a>
+      <% } %>
+      </div>
+    </div>
+
+  </main>
+  <footer>
+    <p>wmdd 4935 lending library 2017</p>
+  </footer>
+
+</body>
+</html>

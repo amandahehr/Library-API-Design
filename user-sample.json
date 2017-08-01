@@ -1,0 +1,52 @@
+{
+  "name":"John Doe",
+  "email":"jd@email.com",
+  "borrowed":[
+    {
+      "bookID":"3",
+      "copyID":"1",
+      "borrowDate":"2017-08-01",
+      "dueDate":"2017-08-15"
+    },
+    {
+      "bookID":"65",
+      "copyID":"1",
+      "borrowDate":"2017-08-01",
+      "dueDate":"2017-08-15"
+    },
+    {
+      "bookID":"43",
+      "copyID":"1",
+      "borrowDate":"2017-07-20",
+      "dueDate":"2017-08-02"
+    }
+  ],
+  "reserved":[
+    {
+      "bookID":"498",
+      "copyID":"1",
+      "dueDate":"2017-08-15"
+    },
+    {
+      "bookID":"6",
+      "copyID":"1",
+      "dueDate":"2017-08-15"
+    }
+  ],
+  "fees":[
+    {
+      "bookID": "5",
+      "copyID": "2",
+      "dueDate": "2017-07-15",
+      "returnDate": "2017-07-26",
+      "fee": "4.65"
+    },
+    {
+      "bookID": "87",
+      "copyID": "3",
+      "dueDate": "2017-07-15",
+      "returnDate": "2017-07-26",
+      "fee": "4.65"
+    }
+  ]
+}

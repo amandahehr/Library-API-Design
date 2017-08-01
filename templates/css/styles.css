@@ -1,0 +1,200 @@
+/*@import url('https://fonts.googleapis.com/css?family=Lato:400,700,900');*/
+
+body {
+	font-family: 'Lato', sans-serif;
+	margin: 0;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+.menu a {
+	text-decoration: none;
+	color: white;
+}
+
+
+h3 {
+	font-size: 1.5rem;
+	font-weight: normal;
+	margin-top: 2rem;
+}
+.cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.cf:after {
+    clear: both;
+}
+
+
+li {
+	list-style: none;
+	padding-bottom: 1rem;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+.pictureBox{
+	position: relative;
+}
+
+header {
+	background-image: url(images/book-banner-low.jpg);
+	background-color: #f0dac2;
+	background-size: auto 656px;
+	height: 400px;
+	margin-bottom: 0;
+}
+
+.the-library {
+	font-weight: 900;
+	font-size: 5rem;
+	color: #3a2027;
+	position: absolute;
+	top: 1rem;
+	left: 5rem;
+	text-transform: uppercase;
+}
+
+
+#login-form {
+	position:absolute;
+	top: 1rem;
+	right: 1rem;
+	padding: 1rem;
+}
+
+#signup-form {
+	position: absolute;
+	bottom: 1rem;
+	right: 1rem;
+	background-color: rgba(255, 255, 255, 0.5);
+	padding: 1rem;
+}
+#signup-form input {
+	display: block;
+	width: 80%;
+	margin-bottom: 0.5rem;
+}
+
+.menu {
+	margin: auto;
+	text-align: center;
+	background-color: #3a2027;
+	color: white;
+	font-size: 1.5rem;
+	overflow: hidden;
+	margin: 0 auto;
+	width: 100%;
+	padding-top: 1rem;
+	padding-left: 0;
+}
+.menu ul{
+	margin: 0 auto;
+	width: 75%;
+}
+
+#signed-in {
+	display: none;
+	position:absolute;
+	top: 2rem;
+	left: 64rem;
+	right: 1rem;
+	background: rgba(255, 255, 255, 0.5);
+	padding: 1rem;
+	padding-bottom: 1rem;
+}
+
+#signed-in h2 {
+	margin: 0;
+	margin-bottom: 0.2rem;
+}
+
+
+#searchBooks, #browseBooks, #viewAccount {
+	display: none;
+	background: white;
+	padding-left: 12%;
+}
+
+#searchBooks input, select{
+	margin-right: 1rem;
+	height: 1.5rem;
+	border: 1px solid lightgrey;
+}
+
+
+
+#signed-up {
+	display: none;
+	position: absolute;
+	bottom: 2rem;
+	right: 1rem;
+	background: white;
+	padding: 1rem;
+}
+
+table {
+	width: 80%;
+	column-width: 50%;
+	border-collapse: collapse;
+}
+td {
+	width: 50%;
+	border: 1px solid black;
+}
+
+thead {
+	font-weight: 700;
+	font-size: 1rem;
+}
+
+button {
+	border-radius: 5px;
+	background-color: #3a2027;
+	color: white;
+	border: none;
+	height: 1.5rem;
+}
+
+input {
+	height: 1.5rem;
+	border: 0.5px solid lightgrey;
+	margin-bottom: 0
+}
+
+.mustlogin {
+	display: none;
+	color: #3a2027;
+	font-size: 0.6rem;
+}
+
+.checkedout-button, .unavailable-button {
+	background-color: lightgrey;
+	color: grey;
+}
+
+.visuallyHidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+#resultList a:nth-of-type(odd) ul{
+	background-color: #f9f9f9;
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="../fluid_grid.css">
+  <link rel="stylesheet" href="../styles.css">
+  <title><%= singlebook.title %></title>
+</head>
+<body>
+    <header class="pictureBox">
+
+
+    <h1 class="the-library"><a href="../">the library</a></h1>
+
+
+  </header>
+   <div class="menu container_12">
+    <a href="/library/books"><li class="grid_12" id="search-books">View Books</li></a>
+  </div>
+<main>
+  <div class="container_12 cf">
+    <div class="grid_6">
+      <% let image = "../" + singlebook.imgurl %>
+      <img src=<%= image %>>
+    </div>
+    <div class="grid_6">
+      <h1>Title: <%= singlebook.title %></h1>
+      <h2>Author: <%= singlebook.author %></h2>
+      <div>
+      	Genre: <%= singlebook.genre %></br>
+      	Copies: <%= singlebook.ncopies %></br>
+      	Available Copies: <%= singlebook.availablecopies %></br>
+       	Publisher: <%= singlebook.publication.publisher %></br>
+      	Publish Date: <%= singlebook.publication.date %>
+      </div>
+  </div>
+</main>
+<footer>
+    <p>wmdd 4935 lending library 2017</p>
+  </footer>
+</body>
+</html>
