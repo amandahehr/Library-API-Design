@@ -10,6 +10,12 @@ Denise Ma
 100284985
 yuli.denise@gmail.com
 
+NODE:
+hapi, inert, vision, ejs, monk, joi, dotenv
+
+TO RUN: 
+node index.js
+
 
 API:
 
@@ -34,5 +40,4 @@ LIBRARY:
 
 
 
-NODE:
-hapi, inert, vision, ejs, monk, joi, dotenv
+
