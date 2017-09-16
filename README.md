@@ -1,4 +1,7 @@
-# WMDD4935-Project
+# Library API Design
+
+DESCRIPTION: 
+API design for an online library including actions to view and manage books and users. The Library includes an HTML user interface that posts queries to books via UI elements. 
 
 INCLUDES:
 hapi, inert, vision, ejs, monk, joi, dotenv
