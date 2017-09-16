@@ -1,16 +1,6 @@
 # WMDD4935-Project
 
-TEAM:
-
-Amanda Hehr
-100285408
-amanhehr@gmail.com
-
-Denise Ma
-100284985
-yuli.denise@gmail.com
-
-NODE:
+INCLUDES:
 hapi, inert, vision, ejs, monk, joi, dotenv
 
 TO RUN: 
